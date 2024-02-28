@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContactCall</string>
+    <string name="phone_one">Contact #1</string>
+    <string name="phone_two">Contact #2</string>
+    <string name="phone_three">Contact #3</string>
+</resources>
